@@ -35,8 +35,7 @@ The tech industry provides me with the means to do just that while allowing me t
 
 <p>What I look for in a career opportunity is a position that allows for personal and professional growth, development, and advancement while allowing me to engage in projects that I'm passionate about, to work on projects that make a positive difference in the lives of others, and that provides the necessary work-life balance and flexibility. I would like to work as a full stack engineer in web/mobile app development for a learning organization that provides just that.</p>
 
-      
-      </p>
+  
   </section>
     <section id="projects">
       <h3>Projects</h3>
